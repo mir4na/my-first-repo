@@ -5,3 +5,4 @@
 - Jurusan : Ilmu Komputer
 - Hobi : Turu
 - Makanan Favorit : Zuppa Soup
+- Buah Favorit : Apel
